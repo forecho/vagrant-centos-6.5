@@ -8,3 +8,9 @@
 - PHP 5.5.7
 - phpmyadmin 4.1.8
 - php-memcache 扩展
+
+
+- git
+- [autojump](https://github.com/joelthelion/autojump)
+- [composer](https://getcomposer.org)
+- vim
