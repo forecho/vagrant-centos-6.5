@@ -2,3 +2,4 @@
 .vagrant
 .idea/
 php/
+!php/.gitignore
