@@ -1,5 +1,4 @@
 .DS_Store
 .vagrant
 .idea/
-!.gitignore
-php/*
+php/*/
