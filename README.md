@@ -46,3 +46,22 @@
 **注意**
 - 因为是虚拟机，所以添加 hosts 这一步是必须的。
 - 域名只做了三层解析，太多层觉得没必要。也就是说URL `cai-zheng-hai-open.dev.com` 默认是不行的。
+ 
+
+
+## 关于MySQL
+
+默认用户名：root
+
+默认密码：root
+
+
+## Box地址
+
+链接: <http://pan.baidu.com/s/1nt1hDMD> 密码: ckg4（my-php.box 就是我自定义的box）
+
+
+## 参考文档
+
+- <http://ninghao.net/blog/2077>
+- <https://github.com/astaxie/Go-in-Action/blob/master/ebook/zh/01.2.md>
