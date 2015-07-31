@@ -55,7 +55,7 @@
 
 默认密码：root
 
-PS：如果以上密码启动不了，请查看[修改默认的数据库](/blob/master/mysql_init.md)进行操作。
+PS：如果以上密码启动不了，请查看[修改默认的数据库](/mysql_init.md)进行操作。
 
 ## Box地址
 
